@@ -1,0 +1,7 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600'>
+<defs><linearGradient id='d' x1='0' x2='1'><stop stop-color='#0b1424'/><stop offset='1' stop-color='#20395d'/></linearGradient></defs>
+<rect width='800' height='600' fill='url(#d)'/><rect y='390' width='800' height='210' fill='#0c1727'/>
+<rect x='90' y='160' width='150' height='280' fill='#85745d'/><rect x='250' y='125' width='180' height='315' fill='#96836a'/><rect x='450' y='180' width='120' height='260' fill='#85745d'/><rect x='580' y='145' width='120' height='295' fill='#96836a'/>
+<rect x='300' y='265' width='64' height='175' fill='#4b3f34'/><circle cx='680' cy='96' r='62' fill='#e5c07b' opacity='.22'/>
+<text x='92' y='500' font-size='44' font-family='Georgia' fill='#eef3ff'>Крепост Баба Вида</text>
+<text x='94' y='540' font-size='24' font-family='Segoe UI' fill='#b6c4e2'>Камък над реката, а под него — памет, механизъм и неизговорени клетви</text></svg>

@@ -1,0 +1,9 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600'>
+<rect width='800' height='600' fill='#09111e'/><rect x='0' y='0' width='800' height='600' fill='url(#a)'/>
+<defs><linearGradient id='a' x1='0' x2='1'><stop stop-color='#0f1930'/><stop offset='1' stop-color='#11284a'/></linearGradient></defs>
+<circle cx='150' cy='120' r='90' fill='#8b7cff' opacity='.16'/><circle cx='650' cy='480' r='130' fill='#7fd2ff' opacity='.08'/>
+<circle cx='400' cy='175' r='92' fill='#c69d76'/><path d='M315 165c28-80 140-102 177-4l20 42c-30-26-55-35-96-36-43 0-69 9-101 26z' fill='#6b462b'/>
+<rect x='275' y='278' width='250' height='180' rx='38' fill='#18283f'/><path d='M210 345h390' stroke='#7fd2ff' stroke-width='8' stroke-dasharray='16 16' opacity='.8'/>
+<rect x='515' y='294' width='125' height='84' rx='18' fill='#1c3558' stroke='#7fd2ff'/><circle cx='555' cy='336' r='20' fill='#7fd2ff'/><path d='M575 336h38' stroke='#7fd2ff' stroke-width='5'/>
+<text x='82' y='488' font-size='42' font-family='Georgia' fill='#eef3ff'>Никола Станев</text>
+<text x='84' y='527' font-size='24' font-family='Segoe UI' fill='#b6c4e2'>Инженер по дронове, който вижда всеки проблем като механизъм</text></svg>

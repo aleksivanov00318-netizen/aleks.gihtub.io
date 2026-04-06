@@ -1,0 +1,7 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600'>
+<defs><linearGradient id='e' x1='0' x2='0' y1='0' y2='1'><stop stop-color='#0d1728'/><stop offset='1' stop-color='#1c3558'/></linearGradient></defs>
+<rect width='800' height='600' fill='url(#e)'/><ellipse cx='400' cy='470' rx='300' ry='72' fill='#0a1220'/>
+<ellipse cx='400' cy='330' rx='215' ry='80' fill='#58697e'/><ellipse cx='400' cy='330' rx='150' ry='50' fill='#07111e'/>
+<path d='M250 330v110c0 40 67 72 150 72s150-32 150-72V330' fill='#425365'/><circle cx='400' cy='330' r='28' fill='#7fd2ff' opacity='.45'/>
+<path d='M180 225l440 0' stroke='#96a7bf' stroke-width='12' opacity='.3'/><text x='92' y='502' font-size='44' font-family='Georgia' fill='#eef3ff'>Кладенецът на ехата</text>
+<text x='94' y='541' font-size='24' font-family='Segoe UI' fill='#b6c4e2'>Подземна камера, в която думите не умират, а чакат правилния слушател</text></svg>

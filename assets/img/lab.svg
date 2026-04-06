@@ -1,0 +1,7 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600'>
+<defs><linearGradient id='f' x1='0' x2='1'><stop stop-color='#09111e'/><stop offset='1' stop-color='#132a48'/></linearGradient></defs>
+<rect width='800' height='600' fill='url(#f)'/><rect x='60' y='120' width='680' height='360' rx='24' fill='#0d1b2f' stroke='#7fd2ff' opacity='.95'/>
+<rect x='100' y='170' width='220' height='120' rx='16' fill='#0b1423' stroke='#8b7cff'/><rect x='350' y='170' width='120' height='200' rx='14' fill='#12243f' stroke='#7fd2ff'/><rect x='500' y='170' width='180' height='90' rx='14' fill='#0b1423' stroke='#7fd2ff'/>
+<circle cx='410' cy='270' r='34' fill='#7fd2ff' opacity='.65'/><path d='M410 220v-40M410 320v40M360 270h-40M460 270h40' stroke='#7fd2ff' stroke-width='6'/>
+<text x='92' y='518' font-size='44' font-family='Georgia' fill='#eef3ff'>Подземната лаборатория</text>
+<text x='94' y='554' font-size='24' font-family='Segoe UI' fill='#b6c4e2'>Наслоени епохи: римски свод, османски тунел и съветска техника</text></svg>
